@@ -1,0 +1,10 @@
+first count for the outer loop 
+
+1
+12
+123
+1234
+12345
+
+Outer loop is running 5 time which is equal to n
+then go for inner loop 
